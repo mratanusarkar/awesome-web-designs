@@ -55,13 +55,43 @@ this project will also feature some awesome online tools at [UI UX Tools](#ui-ux
 
 ### category 1
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- https://camillemormal.com (CodePen: https://cdpn.io/MWXBRBp)
+- https://kprverse.com (CodePen: https://cdpn.io/rNrJgrd)
+- https://poppr.be (CodePen: https://cdpn.io/KKBjvbG)
+- https://www.nathansmith.design (CodePen: https://cdpn.io/mdjPzgM)
+- https://karinasirqueira.com (CodePen: https://cdpn.io/poVpKdQ)
+- https://www.buildinamsterdam.com/cases (CodePen: https://cdpn.io/gOzJgWm)
+- http://dnacapital.com (CodePen: https://cdpn.io/bGvejNY)
+- https://kippo.com/chill (CodePen: https://cdpn.io/zYWdYoo)
+- https://linear.app/features (CodePen: https://cdpn.io/MWQeYLW)
 
 ### category 2
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- https://blokwatches.com/
+- https://amie.so/
+- https://www.films53-12.com/
+- https://moooi.com/
+- https://days.christou1910.com/en/
+
+### category 3
+
+- https://www.rouserlab.com/
+- https://www.ed.com.au/
+- https://theyearofgreta.com/
+- https://superherocheesecake.com/
+- https://useplink.com/en/
+- https://autumn.amsterdam/
+- https://5scontent.com/
+- http://www.amandabraga.com/
+- https://www.cappen.com/
+
+### category 4
+
+- https://seed.com
+- https://monopo.london
+- https://eumray.com
+- https://lunchbox.io
+- https://www.lironmoran-interiors.com/about
 
 
 ## UI UX Tools
