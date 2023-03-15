@@ -28,7 +28,11 @@
 
 ## Introduction
 
-Introduction
+Discover beautiful and inspiring websites with **Awesome Web Designs**. This open-source project is dedicated to discovering and documenting some of the most beautiful and inspiring websites on the internet. Webpages which may be termed as "art" due to it's design, style or choice of color combinations, or Websites that showcase stunning UI and UX designs, and impressive transitions, animations or web components.
+
+The end goal is to have a dynamic table where you can browse and filter the content by tags such as color, font, transition, and more along with code snippets and resources to recreate them.
+
+This project's aim is to become an one stop location for designers, creators, frontend developers and ui/ux developers to find the perfect inspiration for your next project, and search and find the perfect web component required for your need.
 
 
 ## Features
