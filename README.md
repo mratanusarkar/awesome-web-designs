@@ -37,9 +37,19 @@ This project's aim is to become an one stop location for designers, creators, fr
 
 ## Features
 
-* feature 1
-* feature 2
+Besides the usual curated list as per the [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) at [Awesome Websites](#awesome-websites), 
+This project will also contain a way to search and filter from the wide list of websites, so that you can find inspiration or web components with a dynamic search as per your need or requirement.
 
+Below are the dynamic search parameters via which you can search and filter the contents (coming soon!)
+
+* link or name of the original website
+* a small description about the website and what is great in it (so that people can find inspiration based on requirement in their project)
+* a codepen or repo link containing code to recreate the website or some portions of the website
+* my ratting
+* tags: such as ui, ux, color, font, transition, button, card transition, effects etc etc type of tags, so that one can find relevant website based on their requirement.
+
+Along with the list of websites, 
+this project will also feature some awesome online tools at [UI UX Tools](#ui-ux-tools) that you can use during your frontend or web design journey!
 
 ## Awesome Websites
 
