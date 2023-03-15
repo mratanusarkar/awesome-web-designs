@@ -96,8 +96,46 @@ this project will also feature some awesome online tools at [UI UX Tools](#ui-ux
 
 ## UI UX Tools
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### category 1
+
+- https://www.webfx.com/web-design/hex-to-rgb/
+- https://colorpicker.me/#75acff
+- https://color.adobe.com/create/color-wheel
+
+### category 2
+
+- https://whatismyviewport.com/
+- https://www.mydevice.io/
+- https://screensiz.es/
+- https://builtwith.com/
+
+### category 3
+
+- https://cubic-bezier.com/
+- https://animatedbackgrounds.me/
+
+### category 4
+
+- https://wordcounter.net/
+- https://jsoneditoronline.org/
+- https://jwt.io/
+- https://www.somacon.com/p568.php
+- http://www.listdiff.com/
+- https://www.diffchecker.com/
+- http://barc.wi.mit.edu/tools/compare/
+- https://jsben.ch/
+
+### category 5
+
+- https://currentmillis.com/
+- https://codebeautify.org/base64-to-image-converter
+- https://www.base64decode.org/
+
+### category 6
+
+- https://app.diagrams.net/
+- https://excalidraw.com/
+- https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 
 ## Contribute
