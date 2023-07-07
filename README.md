@@ -88,10 +88,12 @@ this project will also feature some awesome online tools at [UI UX Tools](#ui-ux
 ### category 4
 
 - https://seed.com
+- https://www.deso.com/
 - https://monopo.london
 - https://eumray.com
 - https://lunchbox.io
 - https://www.lironmoran-interiors.com/about
+- https://www.apple.com/pro-display-xdr/
 
 
 ## UI UX Tools
