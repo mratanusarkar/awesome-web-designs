@@ -72,6 +72,8 @@ this project will also feature some awesome online tools at [UI UX Tools](#ui-ux
 - https://www.films53-12.com/
 - https://moooi.com/
 - https://days.christou1910.com/en/
+- https://spotify.design/
+- https://www.tomtom.com/
 
 ### category 3
 
@@ -88,10 +90,20 @@ this project will also feature some awesome online tools at [UI UX Tools](#ui-ux
 ### category 4
 
 - https://seed.com
+- https://www.deso.com/
 - https://monopo.london
 - https://eumray.com
 - https://lunchbox.io
 - https://www.lironmoran-interiors.com/about
+- https://www.apple.com/pro-display-xdr/
+
+### category 5
+
+- https://www.oudh1590.com/
+
+### category 6 (Shedders & WebGL)
+
+- http://matthew.wagerfield.com/flat-surface-shader/
 
 
 ## UI UX Tools
