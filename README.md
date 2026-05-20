@@ -74,6 +74,7 @@ this project will also feature some awesome online tools at [UI UX Tools](#ui-ux
 - https://days.christou1910.com/en/
 - https://spotify.design/
 - https://www.tomtom.com/
+- https://www.pixeye.studio/
 
 ### category 3
 
